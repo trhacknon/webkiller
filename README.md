@@ -20,8 +20,8 @@ Tool Information Gathering Write With Python.
  ====================================================================
  **                  WebSite : UltraSec.org                        **
  **                  Channel : @UltraSecurity                      **
- **                 Developers : Ultra Security Team               **
- **                   Thank's : .::Shayan::.                       **
+ **                  Modders : trhacknon                           **
+ **                  Thank's : .::Shayan::.                        **
  ====================================================================          
           
  [$] Choose one of the options below 
@@ -49,7 +49,7 @@ Tool Information Gathering Write With Python.
 
 ## Install
 ```bash
-git clone https://github.com/ultrasecurity/webkiller.git
+git clone https://github.com/trhacknon/webkiller.git
 cd webkiller
 pip3 install -r requirements.txt
 python3 webkiller.py 
